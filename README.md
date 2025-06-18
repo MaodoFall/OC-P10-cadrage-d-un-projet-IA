@@ -1,8 +1,8 @@
 # 👗 Fashion-Insta - Cadrage Projet IA Mobile de Recommandation
 
 **Projet 10 – Mastère Spécialisé Data Science – OpenClassrooms**  
-**Client : Fruits (start-up de l'Agritech)**  
-**Rôle : Data Scientist**
+**Client : Fashion-Insta (Entreprise du monde de la mode)**  
+**Rôle : IA product manager**
 
 ---
 
