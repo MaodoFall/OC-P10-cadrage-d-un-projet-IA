@@ -19,7 +19,7 @@ Développer une **application mobile de recommandation d'articles vestimentaires
 ### Objectifs Business
 - **Augmentation des ventes** grâce à des recommandations précises et personnalisées
 - **Fidélisation client** à long terme
-- **Croissance du CA** : +82 000€ la première année, puis +45% supplémentaire chaque année (simulation)
+- **Croissance du CA** : +82 000€ la première année, puis +45% supplémentaire chaque année (estimation)
 
 ---
 
