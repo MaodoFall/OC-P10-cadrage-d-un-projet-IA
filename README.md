@@ -1,4 +1,4 @@
-# 👗 Fashion-Insta - Cadrage Projet IA Mobile de Recommandation
+# 👗 Cadrage Projet IA 
 
 **Projet 10 – Mastère Spécialisé Data Science – OpenClassrooms**  
 **Client : Fashion-Insta (Entreprise du monde de la mode)**  
